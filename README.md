@@ -1,4 +1,4 @@
-# Tic Tac Toe
+# Tic Tac Toe test
 
 A simple web app to play Tic Tac Toe against a dummy computer opponent.
  
